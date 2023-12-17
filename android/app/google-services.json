@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803399343946",
+    "project_id": "secoya-market-6f8a5",
+    "storage_bucket": "secoya-market-6f8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803399343946:android:a2a46e18c34b2afc9eebb3",
+        "android_client_info": {
+          "package_name": "com.secoya.secoya_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO5_3a0HvhwY8SZlXDDNHe5Lz2YGTo1g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
